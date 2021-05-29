@@ -39,8 +39,8 @@
 # ######### 重要 重要 重要 重要 重要 #########
 
 # ############## Local Domain Settings ##############
-my_host_name = 'www.localhost.com'
-my_host_scheme = 'http://'
+my_host_name = 'xiakele.herokuapp.com'
+my_host_scheme = 'https://'
 my_host_port = None  # None表示使用默认端口, 可以设置成非标准端口, 比如 81
 
 # ############## Target Domain Settings ##############
